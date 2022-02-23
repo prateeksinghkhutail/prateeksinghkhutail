@@ -14,7 +14,7 @@
  </p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Prateek Singh Khutail |  💻 Full Stack Developer | 🛸 Ghaziabad, India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Prateek Singh Khutail |  💻 SAP Consultant | 🛸 Ghaziabad, India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=prateeksinghkhutail.prateeksinghkhutail)
 
@@ -23,7 +23,7 @@
 <img align="right" alt="GIF" src="code2.gif" width="400" height="300" />
 
 - 🎓 B Tech from  [Guru Gobind Singh Indraprastha University, New Delhi.](http://www.ipu.ac.in/) <code>Graduation: 2021</code>
-- 🥀 Learning MERN Stack Web Devlopment  
+- 🥀 Learning MERN Stack Web Devlopment and DSA 
 - 💬 ask me anything, I am happy to help 🤗
 
 **languages and tools:**
